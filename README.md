@@ -61,7 +61,7 @@ python app_coor.py "记事本"
   - 🟠 **橙色**: 下拉框 (ComboBox)
   - 🟤 **棕色**: 树形控件 (TreeView)
   - 🩷 **粉色**: 标签页 (TabControl)
-  - 🟡 **红色**: 默认控件 (Default)
+  - 🔴 **红色**: 默认控件 (Default)
 
 ### 控件信息
 每个控件会显示：

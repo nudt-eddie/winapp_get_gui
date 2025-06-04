@@ -1,0 +1,2 @@
+# winapp_get_gui
+gui小工具，使用pywinauto连接app并截图标出所有的组件

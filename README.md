@@ -47,6 +47,9 @@ python app_coor.py "记事本"
 
 ## 输出说明
 
+### 计算器标注 example
+![计算器标注 example](./screenshots/计算器_20250604_101410.png)
+
 ### 截图标注
 - 每个控件会用彩色边框标注
 - 控件编号显示在左上角
@@ -118,7 +121,7 @@ A:
 项目目录/
 ├── app_coor.py              # 主程序文件
 ├── requirements.txt         # 依赖列表
-├── APP_COORDINATOR_README.md # 使用说明
+├── README.md # 使用说明
 └── screenshots/             # 截图保存目录（自动创建）
     ├── 应用名称_时间戳.png
     └── ...
